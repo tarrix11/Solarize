@@ -15,7 +15,7 @@
 
 ''' 
 THIS IS THE MAIN CODE 
-gets effective irradiance - still gotta find optimal angles 
+gets effective irradiance 
 '''
 
 # Plot each year Individually to see what the data looks like 
